@@ -1,0 +1,14 @@
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+E:\Backup\DIO\DecolaTech2024\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
